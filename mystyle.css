@@ -1,0 +1,57 @@
+h1{
+    color: rgb(230, 33, 33);
+    margin-left: 500px;
+}
+body {
+    font-family: fantasy;
+    background-image: url(./img/468da64c204e391e2af51196d80bc84c.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-backgound-size: cover;
+    background-size: cover;
+    background-position-x: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.button{
+    font-family: fantasy;
+    text-align: center;
+    font-size: x-large;
+    margin-top: 510px;
+    margin-left: -350px;
+    background-color: seashell;
+    border-style: ridge;
+    border-radius: 25px;
+    padding: 3px 12px;
+    cursor: pointer;
+    box-shadow: -4px -4px 5px 0 rgb(61, 57, 57);
+}
+.btn:hover {
+    padding: 2px 2px;
+    border-radius: 12px;
+    box-shadow: inset -7px -7px 20px 0 rgb(247, 242, 242);
+}
+img {
+    width: 500px;
+    height: 350px;
+}
+.motopic{
+   align-items: center;
+   justify-content: center;
+   justify-items: center;
+   padding-left: 250px;
+   padding-bottom: 30px;
+   position: absolute;
+   margin-left: 60px;
+}
+#enter{
+    margin-left: 500px;
+    margin-top: 350px;
+    background: transparent;
+    color: black;
+    box-shadow: -3px -3px 8px 0 rgb(59, 56, 45),
+    3px 3px 8px 0 rgb(121, 52, 52);
+    border-radius: 10px;
+    
+}
